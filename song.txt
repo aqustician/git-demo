@@ -5,7 +5,3 @@
 
 5-os sor
 6-os sor
-
-here are some new lines
-and an another one
------------------------
